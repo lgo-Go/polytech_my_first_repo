@@ -1,0 +1,7 @@
+one: 
+MOV A,4
+MOV B,11
+two: 
+MOV C,A
+MOV A,B
+MOV B,C
